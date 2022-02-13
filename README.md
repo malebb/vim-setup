@@ -16,19 +16,20 @@ call plug#end()
 
 3) Into Vim :
 
-Install plugins listed in ~/.vimrc :
+###### Install plugins listed in ~/.vimrc :
 ```vim
 :PlugInstall 
 ```
 
-Update plugins listed in ~/.vimrc :
+###### Update plugins listed in ~/.vimrc :
 ```vim
 :PlugUpdate
 ```
-Update a single plugin :
+###### Update a single plugin :
 ```vim
 :PlugUpdate PLUGIN_NAME 
 ```
 ##### List of useful plugins
 
-- preservim/NERDtree : file system explorer
+- preservim/nerdtree : file system explorer
+- ctrlpvim/ctrlp/ctrlp.vim : research a file with his name
