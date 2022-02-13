@@ -32,5 +32,5 @@ call plug#end()
 ##### List of useful plugins
 
 - preservim/nerdtree : file system explorer
-- ctrlpvim/ctrlp.vim : research a file with his name
+- ctrlpvim/ctrlp.vim : research a file by typing his name
 - dense/analysis/ale : show errors in file
